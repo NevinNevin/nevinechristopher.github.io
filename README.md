@@ -8,7 +8,7 @@
 
 ---
 
-## 👤 01. PERSONAL PROFILE
+##  01. PERSONAL PROFILE
 
 | **Profile**         | **Details**                                                                 |
 | :------------------ | :-------------------------------------------------------------------------- |
@@ -21,7 +21,7 @@
 
 ---
 
-## 🌟 02. ABOUT ME
+##  02. ABOUT ME
 
 I am a Grade 12 CBSE science student with a strong passion for **medicine, technology, innovation, and entrepreneurship**.
 
@@ -33,18 +33,18 @@ My ultimate ambition is to become a medical professional while continuing to exp
 
 ---
 
-## 🎓 03. ACADEMIC PROFILE
+##  03. ACADEMIC PROFILE
 
 ### Academic Performance
 
-| Subject               | Percentage |
-| :-------------------- | :--------: |
-| 🧬 Biology            |   **94%**  |
-| 💻 Computer Science   |   **91%**  |
-| 📖 English            |   **89%**  |
-| 🏃 Physical Education |   **98%**  |
-| 🧪 Chemistry          |   **73%**  |
-| ⚡ Physics            |   **65%**  |
+| Subject             | Percentage |
+| :-------------------| :--------: |
+|  Biology            |  **94%**   |
+|  Computer Science   |  **91%**   |
+|  English            |  **89%**   |
+|  Physical Education |  **98%**   |
+|  Chemistry          |  **73%**   |
+|  Physics            |  **65%**   |
 
 
 ### Academic Strengths
@@ -58,21 +58,21 @@ My ultimate ambition is to become a medical professional while continuing to exp
 
 ---
 
-## 🏆 04. ACHIEVEMENTS & AWARDS
+##  04. ACHIEVEMENTS & AWARDS
 
-* 🥇 **Subject Topper** — Grade 10, CBSE
-* 🧠 **Mental Math Top Scorer** — Grade 9
-* 🎨 **Mascot Creation Winner** — AI Week
-* 🏐 **Third Place** — Interhouse Volleyball Tournament
-* 📚 **Asset Credible Performance** — Grade 8
-* 🎖️ **Student Council Member** — 2022
-* 🏐 **CBSE Cluster Volleyball Tournament** — Represented school twice
-* 💡 **Mubarmij Tech Show** — Participant
-* 💡 **Talented Musician** — 2 Times Champion
+*  **Subject Topper** — Grade 10, CBSE
+*  **Mental Math Top Scorer** — Grade 9
+*  **Mascot Creation Winner** — AI Week
+*  **Third Place** — Interhouse Volleyball Tournament
+*  **Asset Credible Performance** — Grade 8
+*  **Student Council Member** — 2022
+*  **CBSE Cluster Volleyball Tournament** — Represented school twice
+*  **Mubarmij Tech Show** — Participant
+*  **Talented Musician** — 2 Times Champion
 
 ---
 
-## 🤝 05. LEADERSHIP & VOLUNTEERING
+##  05. LEADERSHIP & VOLUNTEERING
 
 ### Leadership & Responsibilities
 
@@ -91,7 +91,7 @@ My ultimate ambition is to become a medical professional while continuing to exp
 
 ---
 
-## 🚀 06. PROJECTS & INNOVATION
+##  06. PROJECTS & INNOVATION
 
 A collection of projects exploring the intersection of technology, engineering, healthcare, accessibility, and real-world problem-solving.
 
@@ -106,7 +106,7 @@ A collection of projects exploring the intersection of technology, engineering, 
 | **SEGS**         | Smart Exit Guidance System designed to improve emergency evacuation during congestion.   | Working Model   |
 | **Flood Guard**  | Flood prevention system designed to protect residential spaces from incoming floodwater. | Working Model   |
 
-### 🩸 Featured Innovation — LifeLink
+###  Featured Innovation — LifeLink
 
 #### Founder & CEO | Blood Bank Management System
 
@@ -127,7 +127,7 @@ LifeLink represents my interest in combining computer science with healthcare to
 
 ---
 
-## 💻 07. TECHNICAL SKILLS
+##  07. TECHNICAL SKILLS
 
 ### Programming & Software Development
 
@@ -161,7 +161,7 @@ LifeLink represents my interest in combining computer science with healthcare to
 
 ---
 
-## 🧩 08. CORE COMPETENCIES
+##  08. CORE COMPETENCIES
 
 | Competency                | Description                                                               |
 | :------------------------ | :------------------------------------------------------------------------ |
@@ -176,20 +176,20 @@ LifeLink represents my interest in combining computer science with healthcare to
 
 ---
 
-## 🎯 09. INTERESTS & HOBBIES
+##  09. INTERESTS & HOBBIES
 
-* 🩺 Medicine and Healthcare
-* 🤖 Robotics and Engineering
-* 🏐 Sports and Volleyball
-* ⌚ Watch Collecting and Horology
-* 🚵 Mountain Biking
-* 📈 Investing and Financial Literacy
-* 💡 Entrepreneurship
-* 📚 Personal Development and Lifelong Learning
+*  Medicine and Healthcare
+*  Robotics and Engineering
+*  Sports and Volleyball
+*  Watch Collecting and Horology
+*  Mountain Biking
+*  Investing and Financial Literacy
+*  Entrepreneurship
+*  Personal Development and Lifelong Learning
 
 ---
 
-## 🩺 10. CAREER ASPIRATIONS
+##  10. CAREER ASPIRATIONS
 
 My primary ambition is to pursue a career in **medicine**, with particular interests in healthcare, human biology, and medical innovation.
 
@@ -199,7 +199,7 @@ I aim to become a medical professional who combines scientific expertise, compas
 
 ---
 
-## 🌍 11. PERSONAL VISION & MISSION
+##  11. PERSONAL VISION & MISSION
 
 ### Vision
 
@@ -211,7 +211,7 @@ To continuously develop academic knowledge, technical expertise, leadership abil
 
 ---
 
-## ✍️ 12. PERSONAL REFLECTION
+##  12. PERSONAL REFLECTION
 
 My academic journey and extracurricular experiences have shaped my interests in science, medicine, and innovation.
 
@@ -223,7 +223,7 @@ My ultimate goal is to combine my passion for medicine and technology to contrib
 
 ---
 
-## 📜 13. CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+##  13. CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
 
 A dedicated space to showcase my continuous learning and professional development.
 
@@ -235,7 +235,7 @@ A dedicated space to showcase my continuous learning and professional developmen
 
 ---
 
-## 🔬 14. PROFESSIONAL & RESEARCH EXPOSURE
+##  14. PROFESSIONAL & RESEARCH EXPOSURE
 
 A record of experiences that contribute to my academic and professional development.
 
@@ -247,7 +247,7 @@ A record of experiences that contribute to my academic and professional developm
 ---
 
 
-## 💡 15. ENTREPRENEURSHIP & INNOVATION
+##  15. ENTREPRENEURSHIP & INNOVATION
 
 ### LifeLink — Founder & CEO
 
@@ -257,7 +257,7 @@ Through this initiative, I aim to demonstrate how programming, database manageme
 
 ---
 
-## 🚀 16. FUTURE GOALS
+##  16. FUTURE GOALS
 
 * Pursue higher education in medicine.
 * Develop deeper knowledge of human biology and healthcare.
@@ -269,7 +269,7 @@ Through this initiative, I aim to demonstrate how programming, database manageme
 
 ---
 
-## 📬 18. CONNECT WITH ME
+##  18. CONNECT WITH ME
 
 **Nevin Edmund Christopher**
 
