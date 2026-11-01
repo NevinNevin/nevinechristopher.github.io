@@ -3,7 +3,7 @@
   <img
     src="https://raw.githubusercontent.com/NevinNevin/nevinechristopher.github.io/79e4be93ca347f0eb0abbc17c89273eb9fe05ded/Nevin%20Formal%20Pinstripe%20pfp.png"
     alt="Nevin's Profile"
-    width="300"
+    width="900"
   >
 </p>
 
