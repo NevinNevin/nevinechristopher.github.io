@@ -1,4 +1,4 @@
-# ✦ NEVIN E. CHRISTOPHER
+# ✦ NEVIN Edmund CHRISTOPHER
 
 ### Student Portfolio | Science • Technology • Innovation • Leadership
 
