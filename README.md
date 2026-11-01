@@ -1,5 +1,6 @@
-# ✦ NEVIN Edmund CHRISTOPHER
+# ✦ NEVIN EDMUND CHRISTOPHER
 
+<p align="center">
 ### Student Portfolio | Science • Technology • Innovation • Leadership
 
 <p align="center">
@@ -276,7 +277,7 @@ Through this initiative, I aim to demonstrate how programming, database manageme
 * **LinkedIn:** https://www.linkedin.com/in/nevin-edmund-christopher-935a6b291/?locale=en-US
 * **GitHub:** https://github.com/NevinNevin
 * **Email:** nevinchristo5@gmail.com
-* **Portfolio:** 
+* **Portfolio:** https://nevinnevin.github.io/nevinechristopher.github.io/
 
 ---
 
