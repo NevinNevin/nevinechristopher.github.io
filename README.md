@@ -1,4 +1,7 @@
-Nevin Formal Pinstripe pfp.png
+![Nevin's Profile](https://github.com/NevinNevin/nevinechristopher.github.io/blob/79e4be93ca347f0eb0abbc17c89273eb9fe05ded/Nevin%20Formal%20Pinstripe%20pfp.png)
+<p align="center">
+  <img src="images/lifelink.png" width="250">
+</p>
 # ✦ NEVIN EDMUND CHRISTOPHER
 
 
