@@ -2,11 +2,11 @@
 <p align="center">
   <img src="images/lifelink.png" width="250">
 </p>
+
+
 # ✦ NEVIN EDMUND CHRISTOPHER
 
-
 Student Portfolio | Science • Technology • Innovation • Leadership
-
 
 <b>Aspiring Medical Professional · Technology Enthusiast · Founder & CEO of LifeLink</b>
 </p>
