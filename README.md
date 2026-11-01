@@ -1,7 +1,7 @@
 # ✦ NEVIN EDMUND CHRISTOPHER
 
 <p align="center">
-### Student Portfolio | Science • Technology • Innovation • Leadership
+Student Portfolio | Science • Technology • Innovation • Leadership
 
 <p align="center">
   <b>Aspiring Medical Professional · Technology Enthusiast · Founder & CEO of LifeLink</b>
