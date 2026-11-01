@@ -274,9 +274,9 @@ Through this initiative, I aim to demonstrate how programming, database manageme
 **Nevin Edmund Christopher**
 
 * **LinkedIn:** https://www.linkedin.com/in/nevin-edmund-christopher-935a6b291/?locale=en-US
-* **GitHub:** [Add GitHub Profile]
+* **GitHub:** https://github.com/NevinNevin
 * **Email:** nevinchristo5@gmail.com
-* **Portfolio:** https://github.com/NevinNevin
+* **Portfolio:** 
 
 ---
 
